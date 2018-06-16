@@ -6,7 +6,7 @@
 
 ### "Background" Background
 
-While I like the vanilla ["Hacking Engineers and Engineering Media"](https://github.com/nemild/hack-an-engineer) markdown file, I find that hyperlinks, examples, and quotes can serve to "editorialize" and promote certain agendas. This fork is an experiment to see whether stripping out these hyperlinks, examples, and quotes lead to a different "reading experience" that can ultimately provide a less-biased version of the document.
+While I like the vanilla ["Hacking Engineers and Engineering Media"](https://github.com/nemild/hack-an-engineer) markdown file, I find that hyperlinks, examples, and quotes can "hack" an engineer. This fork is an experiment to see whether stripping out these hyperlinks, examples, and quotes lead to a different "reading experience" that can ultimately provide a "safer" document free of the very hacks we're describing here.---Tariq Ali
 
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
