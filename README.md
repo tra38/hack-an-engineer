@@ -181,7 +181,7 @@ These are common content strategies that technical organizations can use to infl
 **Other Issues**
 
 - Lots of content marketing passes for journalism
-- University/grad school reading can be content marketing (At one top business school, a professor confided to me that the smartest move for many CEOs was to push for business school case studies that biased students to want to join their companies; these case studies would often read like a fawning profile)
+- University/grad school reading can be content marketing
 - Need to write content on widely read topics to maximize readership; leads to an echo chamber of hype around new technologies since these have been validated to be of interest
 - Content is expensive to produce (and the costs of creating more effective content is only increasing), so only those with the resources and exposure are the ones most likely to present the content to you.)
 
