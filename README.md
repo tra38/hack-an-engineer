@@ -4,9 +4,9 @@
 
 <small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](http://eepurl.com/cxs5Zr) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
 
-### "Background" Background
+### "Background" Background (prelude note from Tariq Ali)
 
-While I like the vanilla ["Hacking Engineers and Engineering Media"](https://github.com/nemild/hack-an-engineer) markdown file, I find that hyperlinks, examples, and quotes can "hack" an engineer. This fork is an experiment to see whether stripping out these hyperlinks, examples, and quotes lead to a different "reading experience" that can ultimately provide a "safer" document free of the very hacks we're describing here.---Tariq Ali
+While I like the vanilla ["Hacking Engineers and Engineering Media"](https://github.com/nemild/hack-an-engineer) markdown file, I find that hyperlinks, examples, and quotes can accidentally "hack" an engineer. This fork is an experiment to see whether stripping out these hyperlinks, examples, and quotes lead to a different "reading experience" that can ultimately provide a "safer" document free of the very hacks we're describing here.
 
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
