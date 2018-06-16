@@ -134,10 +134,7 @@ These are common content strategies that technical organizations can use to infl
 **Potential Antibodies**
 
 - **Wants vs Needs**: Social feed algorithms focus on user "wants", but in engineering, huge value to determining your "needs"
-
-- Realize huge degree of confirmation bias on Twitter/Facebook — and echo chambers in every social network
- - Shares a lot of similarities with publication bias in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader") and distributed on social networks.
-
+- Realize huge degree of confirmation bias on Twitter/Facebook — and echo chambers in every social network. Shares a lot of similarities with publication bias in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader") and distributed on social networks.
 - Avoid trolls
 - Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies in engineering communities, but also across religions and countries
 
