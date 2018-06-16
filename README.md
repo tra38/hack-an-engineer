@@ -46,7 +46,7 @@ These are common content strategies that technical organizations can use to infl
 
 - Play into an engineer’s fear of being left behind technologically
   - Argue something is the future and what’s used now is old and anachronistic; especially powerful on junior developers
-- Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this (examples: blockchains, NoSQL, microservices)
+- Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this
   - Hype is a function of reader interest, but often says little about engineering appropriateness
 - Support others who write seemingly tangential content that supports the need for your product
 - Write something controversial that you don’t fully believe
@@ -169,7 +169,7 @@ These are common content strategies that technical organizations can use to infl
 ## Content Marketing
 **How it works**
 
-- Create “valuable” content that doesn’t look like an ad; is apt to get engagement and influence engineer behavior (examples: uptake a dev tool platform, enroll in a training program, join a company, use an open source package)
+- Create “valuable” content that doesn’t look like an ad; is apt to get engagement and influence engineer behavior
 - Popular reasons for content marketing: increase domain SEO, collect sales leads, sell product/service, recruit engineers, improve brand
 - Content can be created in house, or relatively small amounts of funding can encourage others to create the content needed
 - Content marketing applies far beyond online posts, including categories like whitepapers to handouts in college/grad school classes
